@@ -11,7 +11,7 @@ import CTASection from "./components/CTASection";
 import Footer from "./components/Footer";
 import FindProfessionals from "./pages/FindProfessionals";
 import Register from "./pages/Register";
-import Login from "./pages/Login";
+import Login from "./pages/login";
 import ForgotPassword from "./pages/ForgotPassword";
 import RegisterWorker from "./pages/RegisterWorker";
 import RegisterCustomer from "./pages/RegisterCustomer";
