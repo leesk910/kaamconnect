@@ -9,7 +9,7 @@ import Services from "./components/services";
 import HowItWorks from "./components/HowItWorks";
 import CTASection from "./components/CTASection";
 import Footer from "./components/Footer";
-import FindProfessionals from "./pages/findProfessionals";
+import FindProfessionals from "./pages/FindProfessionals";
 import Register from "./pages/Register";
 import Login from "./pages/login";
 import ForgotPassword from "./pages/forgotpassword";
