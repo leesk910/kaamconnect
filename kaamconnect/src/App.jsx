@@ -3,16 +3,16 @@ import { Routes, Route } from "react-router";
 
 import "./App.css";
 
-import Navbar from "./components/Navbar";
-import Home from "./pages/Home";
-import Services from "./components/Services";
+import Navbar from "./components/navbar";
+import Home from "./pages/home";
+import Services from "./components/services";
 import HowItWorks from "./components/HowItWorks";
 import CTASection from "./components/CTASection";
 import Footer from "./components/Footer";
-import FindProfessionals from "./pages/FindProfessionals";
+import FindProfessionals from "./pages/findProfessionals";
 import Register from "./pages/Register";
 import Login from "./pages/login";
-import ForgotPassword from "./pages/ForgotPassword";
+import ForgotPassword from "./pages/forgotpassword";
 import RegisterWorker from "./pages/RegisterWorker";
 import RegisterCustomer from "./pages/RegisterCustomer";
 import WorkerProfile from "./pages/WorkerProfile";
@@ -22,7 +22,7 @@ import CustomerDashboard from "./pages/CustomerDashboard";
 import ProfessionalDashboard from "./pages/ProfessionalDashboard";
 import EditProfile from "./pages/EditProfile";
 import Notifications from "./pages/Notifications";
-import About from "./pages/About";
+import About from "./pages/about";
 
 function App() {
   const [darkMode, setDarkMode] = useState(() => {
