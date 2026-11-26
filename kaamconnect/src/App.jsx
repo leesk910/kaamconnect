@@ -3,9 +3,9 @@ import { Routes, Route } from "react-router";
 
 import "./App.css";
 
-import Navbar from "./components/navbar";
+import Navbar from "./components/Navbar";
 import Home from "./pages/home";
-import Services from "./components/services";
+import Services from "./components/Services";
 import HowItWorks from "./components/HowItWorks";
 import CTASection from "./components/CTASection";
 import Footer from "./components/Footer";
